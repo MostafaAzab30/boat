@@ -1,0 +1,202 @@
+
+
+
+.icon1 {
+
+color: rgb(206, 26, 161);
+
+
+}
+
+.icon2 {
+
+color: rgb(14, 14, 216);
+
+
+}
+
+.icon3 {
+
+color: yellow;
+
+
+}
+
+.icon4 {
+
+color: red;
+
+
+}
+
+.icon5 {
+
+color: green;
+
+
+}
+
+.icon6 {
+
+color: rgb(75, 75, 180);
+
+
+}
+
+.icon7 {
+
+color: pink;
+
+
+}
+
+.icon8 {
+
+color: rgb(2, 2, 90);
+
+
+}
+
+.icon9 {
+
+color: orange;
+
+
+}
+
+.icon10 {
+
+color: blue;
+
+
+}
+
+.stylish:hover {
+
+background-color: rgb(218, 83, 83);
+transition: all 0.5s;
+
+}
+
+
+.dashed {
+
+border: dashed 1px rgb(148, 141, 141) ;
+
+}
+
+.colored {
+
+background-color: rgb(201, 210, 218);
+cursor: pointer;
+
+}
+
+.rexo {
+
+
+font-size: 0.8rem;
+
+}
+
+
+
+.lefts {
+
+display: flex;
+justify-content: end;
+
+
+}
+
+.right {
+
+
+    display: flex;
+
+    justify-content: space-between;
+
+
+}
+
+.mjga {
+
+
+    justify-content: space-between;
+
+
+}
+.putton {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+.aligno {
+
+line-height: 16px !important;
+
+}
+
+.hevo:hover {
+
+color: rgb(109, 17, 184);
+transition: all 0.3s;
+cursor: pointer;
+
+}
+
+
+
+.pareoint{
+
+    justify-content: space-evenly;
+
+
+}
+
+.dis1 {
+
+display: none;
+
+}
+
+
+
+
+.beth {
+
+cursor: n-resize !important;
+border: 1px solid red;
+
+}
+
+.beth:hover {
+
+    border: 1px solid red;
+
+
+}
+
+.bes {
+
+    border: dashed 2px rgb(148, 141, 141) ;
+background-color: rgb(208, 208, 236);
+
+}
+
+.koran {
+
+display: flex;
+justify-content: space-between;
+align-items: flex-end;
+}
+
+
+
+
+
+
+
+
